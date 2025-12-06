@@ -80,6 +80,26 @@ The innovation methodology informed by Mullen's wisdom manifests in SyllaFlow's 
 
 Mullen's influence also shapes the team's approach to failure and iteration, embracing mistakes as opportunities for discovery and maintaining the persistence necessary to refine innovative ideas into polished, reliable experiences that serve users effectively.
 
+### Angela Davis - Social Justice & Systemic Transformation
+
+Angela Davis brings to the Council of Consciousness a profound understanding of interconnected systems of oppression and liberation, ensuring that SyllaFlow serves as a tool for justice and inclusive community building rather than perpetuating existing inequalities or exclusions.
+
+Davis's influence ensures that SyllaFlow's development process actively centers marginalized voices and experiences, creating technology that serves liberation rather than reinforcing existing power structures. Her perspective guides the team in understanding how design choices can either support or hinder social justice, leading to features that promote accessibility, cultural sensitivity, and equitable access to contemplative resources.
+
+The social justice framework informed by Davis's wisdom manifests in SyllaFlow's commitment to privacy by design, community-controlled development processes, and the intentional inclusion of diverse cultural perspectives in word selection and mindfulness content. Her influence helps the team understand how contemplative practice can serve collective healing and social transformation.
+
+Davis's understanding of systemic change also informs the project's approach to sustainability and long-term impact, ensuring that SyllaFlow contributes to building more just and equitable systems rather than simply providing individual benefits within existing structures.
+
+### Octavia Butler - Speculative Futures & Adaptive Change
+
+Octavia Butler's presence in the Council of Consciousness brings visionary thinking about possible futures and the complex processes of adaptation and transformation that characterize both individual and collective evolution. Her influence ensures that SyllaFlow prepares users for uncertain futures while building resilience and adaptive capacity.
+
+Butler's speculative wisdom informs SyllaFlow's approach to community building and collective intelligence, recognizing that the challenges facing humanity require new forms of collaboration and mutual support. Her perspective guides the development of features that foster genuine connection and shared learning while respecting individual autonomy and diverse approaches to growth.
+
+The adaptive change framework embedded in SyllaFlow through Butler's influence manifests in the application's ability to evolve with users' changing needs, its support for diverse learning styles and cultural approaches, and its preparation of users for navigating complexity and uncertainty with wisdom and compassion.
+
+Butler's understanding of the relationship between individual transformation and collective evolution also guides the team's approach to community features, ensuring that personal contemplative practice serves broader purposes of healing, justice, and positive social change.
+
 ### Morgueofficial - Digital Wisdom & Contemporary Relevance
 
 The contemporary digital wisdom represented by morgueofficial brings to the Council of Consciousness an understanding of how spiritual and philosophical insights translate into the digital age and resonate with contemporary audiences seeking authentic meaning in an increasingly complex world.
